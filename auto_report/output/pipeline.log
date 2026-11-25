@@ -1,0 +1,7 @@
+2026-11-25 11:54:07,455 | INFO | Pipeline started
+2026-11-25 11:54:07,459 | INFO | Extracted 25 rows from data/raw_sales.csv
+2026-11-25 11:54:07,474 | INFO | Transformed: 25 in -> 20 out (1 duplicates, 4 invalid)
+2026-11-25 11:54:07,521 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-25 11:54:07,522 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-25 11:54:07,810 | INFO | Excel report written to output/sales_report.xlsx
+2026-11-25 11:54:07,810 | INFO | Pipeline finished successfully
